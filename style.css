@@ -517,4 +517,15 @@ body {
     .container .highlight {
         font-size: 20px;
     }
+    .container .products {
+        padding: 20px 0;
+    }
+    .container .products h2 {
+        font-size: 28px;
+    }
+.trusted-badge {
+        display: none;
+    }
 }
+
+
