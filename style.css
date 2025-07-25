@@ -37,6 +37,20 @@ body {
   padding: 2rem 1rem;
   text-align: center;
 }
+.trusted-badge {
+    margin-top: 0px;
+    padding-top: 0%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+}
+
+.trusted-badge img {
+    width: 4cap;
+    height: 110px;
+    filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.3));
+}
 
 .grid {
   display: grid;
